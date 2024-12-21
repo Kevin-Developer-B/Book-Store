@@ -1,0 +1,20 @@
+header{
+    max-width: 1940px;
+    margin: 0;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+
+.book-container{
+    max-width: 1940px;
+    margin: 0;
+    width: 100%;
+    color: rgb(248, 245, 245);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
